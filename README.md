@@ -1,4 +1,4 @@
-# working with sql examples
+# Working with sql examples
 
 ## db-basics folder
 In this folder, there are examples of my SQL queries from my university course "Database basics".
